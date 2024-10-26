@@ -12,6 +12,15 @@
 
 - 👯 I am open to collaboration, feel free to contact me via [Email](huangwubiao@whu.edu.cn) (👈)!
 
+- ⚡ Repositories:
+  
+    | Name                                                             | Task                                                                                   |
+    | :--------------------------------------------------------------  | :------------------------------------------------------------------------------------  |
+    | [SVM-LSM-ToolBox](https://github.com/HuangWBill/SVM-LSM-Toolbox) | A ArcGIS tool of **landslide susceptibility mapping** based on support vector machines |
+    | [DL-LSM](https://github.com/HuangWBill/DL_LSM)                   | **Landslide susceptibility mapping** based on deep learning methods                    |   
+    | [GSMF-RS-DIL](https://github.com/HuangWBill/GSMF-RS-DIL)         | Domain-incremental learning for **remote sensing semantic segmentation**               |  
+
+
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
