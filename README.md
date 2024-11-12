@@ -16,7 +16,7 @@
   
     | Name                                                             | Task                                                                                   |
     | :--------------------------------------------------------------  | :------------------------------------------------------------------------------------  |
-    | [SVM-LSM-ToolBox](https://github.com/HuangWBill/SVM-LSM-Toolbox) | A ArcGIS tool of **landslide susceptibility mapping** based on support vector machines |
+    | [SVM-LSM-Toolbox](https://github.com/HuangWBill/SVM-LSM-Toolbox) | A ArcGIS tool of **landslide susceptibility mapping** based on support vector machines |
     | [DL-LSM](https://github.com/HuangWBill/DL_LSM)                   | **Landslide susceptibility mapping** based on deep learning methods                    |   
     | [GSMF-RS-DIL](https://github.com/HuangWBill/GSMF-RS-DIL)         | Domain-incremental learning for **remote sensing semantic segmentation**               |  
 
