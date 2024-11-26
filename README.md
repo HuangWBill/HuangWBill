@@ -20,7 +20,7 @@
     | [DL-LSM](https://github.com/HuangWBill/DL_LSM)                   | **Landslide susceptibility mapping** based on deep learning methods                    |   
     | [GSMF-RS-DIL](https://github.com/HuangWBill/GSMF-RS-DIL)         | Domain-incremental learning for **remote sensing semantic segmentation**               |  
 
-
+- 📊 Github Statistics
 <table >
 
 <tr><td align="center" width="55%">
