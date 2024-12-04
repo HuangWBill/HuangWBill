@@ -4,7 +4,7 @@
 
 - 🌱 My main research interests include deep learning, computer vision, geological hazard identification and analysis, remote sensing semantic segmentation, knowledge graphs, and multimodal large models.
 
-- ✨ Personal Pages: https://HuangWBill.github.io/ (updated recently🔥)
+- ✨ Personal Pages: https://huangwbill.github.io/WubiaoHuang/ (updated recently🔥)
   
   ✨ Google Scholar: https://scholar.google.com/citations?user=ucut0gEAAAAJ
 
