@@ -17,7 +17,8 @@
     | Name                                                             | Task                                                                                   |
     | :--------------------------------------------------------------  | :------------------------------------------------------------------------------------  |
     | [SVM-LSM-Toolbox](https://github.com/HuangWBill/SVM-LSM-Toolbox) | A ArcGIS tool of **landslide susceptibility mapping** based on support vector machines |
-    | [DL-LSM](https://github.com/HuangWBill/DL_LSM)                   | **Landslide susceptibility mapping** based on deep learning methods                    |   
+    | [DL-LSM](https://github.com/HuangWBill/DL_LSM)                   | **Landslide susceptibility mapping** based on deep learning methods                    |
+    | [MSEONet](https://github.com/HuangWBill/MSEONet)                 | Edge Optimization for **remote sensing semantic segmentation**                         |
     | [GSMF-RS-DIL](https://github.com/HuangWBill/GSMF-RS-DIL)         | Domain-incremental learning for **remote sensing semantic segmentation**               |  
 
 - 📊 Github Statistics: 
