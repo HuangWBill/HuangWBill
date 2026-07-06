@@ -22,7 +22,8 @@
     | [GSMF-RS-DIL](https://github.com/HuangWBill/GSMF-RS-DIL)         | Domain-incremental learning for **remote sensing semantic segmentation**               |  
     | [HG-RSOVSSeg](https://github.com/HuangWBill/HG-RSOVSSeg)         | Hierarchical Guidance **Open-Vocabulary Semantic Segmentation** Framework for High-Resolution Remote Sensing Images|
   
-- 📊 Github Statistics: 
+- 📊 Github Statistics:  [![Stars](https://img.shields.io/github/stars/HuangWBill?style=social)](https://github.com/HuangWBill)
+ 
 <table>
   <tr>
     <td align="center" width="50%">
