@@ -23,19 +23,15 @@
     | [HG-RSOVSSeg](https://github.com/HuangWBill/HG-RSOVSSeg)         | Hierarchical Guidance **Open-Vocabulary Semantic Segmentation** Framework for High-Resolution Remote Sensing Images|
   
 - 📊 Github Statistics: 
-<table >
-
-<tr><td align="center" width="55%">
-    
-[![cyloveyou's github stats](https://github-readme-stats.vercel.app/api?username=HuangWBill&count_private=true&show_icons=true&theme=white)](https://github.com/anuraghazra/github-readme-stats)
-
-</td>
-
-<td align="top" width="45%">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuangWBill&layout=compact&theme=white)](https://github.com/anuraghazra/github-readme-stats)
-
-</td>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=HuangWBill&count_private=true&show_icons=true&theme=default" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuangWBill&layout=compact&theme=default" alt="Top Languages" />
+    </td>
+  </tr>
 </table>
 
 
