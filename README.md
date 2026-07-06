@@ -20,7 +20,8 @@
     | [DL-LSM](https://github.com/HuangWBill/DL_LSM)                   | **Landslide susceptibility mapping** based on deep learning methods                    |
     | [MSEONet](https://github.com/HuangWBill/MSEONet)                 | Edge Optimization for **remote sensing semantic segmentation**                         |
     | [GSMF-RS-DIL](https://github.com/HuangWBill/GSMF-RS-DIL)         | Domain-incremental learning for **remote sensing semantic segmentation**               |  
-
+    | [HG-RSOVSSeg](https://github.com/HuangWBill/HG-RSOVSSeg)         | Hierarchical Guidance **Open-Vocabulary Semantic Segmentation** Framework for High-Resolution Remote Sensing Images|
+  
 - 📊 Github Statistics: 
 <table >
 
